@@ -6,6 +6,7 @@ It reads a specific .xlsx files with special header and send the information via
 Technologies used:
 
 Python3 and these modules:
+
     PyQt5 (for the GUI)
     Openpyxl (For reading .xlsx)
     smtplib (for sending emails via Simple Mail Trasfer Protocol)
