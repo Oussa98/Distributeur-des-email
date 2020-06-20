@@ -13,7 +13,7 @@ Technologies used:
     PyInstaller (for building the .exe file)
     
     
-the .exe file is availible at but I recommend building it yourself because of the sensitive informations.
+the .exe file for windows X64 is availible at MediaFire but I recommend building it yourself because of the sensitive informations.
 
     http://www.mediafire.com/file/ug2j84tullzyoit/Distributeur_des_Emails.exe/file
 
