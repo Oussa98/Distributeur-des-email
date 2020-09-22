@@ -17,3 +17,6 @@ the .exe file for windows X64 is availible at MediaFire but I recommend building
 
     http://www.mediafire.com/file/ug2j84tullzyoit/Distributeur_des_Emails.exe/file
 
+
+Google changed their policy and it started granting 500 email daily when you send them manually.
+but when sending emails via a program (SMTP server) it will grant you only 100 emails daily.
